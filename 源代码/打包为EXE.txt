@@ -1,0 +1,3 @@
+pyinstaller -F FuckMyPet.py
+pyinstaller -D Web.py
+然后将static、templates文件夹放入dist/web/
